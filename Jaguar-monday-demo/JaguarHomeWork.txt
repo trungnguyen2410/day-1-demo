@@ -1,0 +1,32 @@
+------
+
+!!! IMPORTANT: please read the README.md before starting any project !!!
+
+------
+
+Please input your name and 1 hobby
+
+Name : Hoang Anh Tuan
+Hobby: Guitar
+
+Name : Vo Pham Minh Tan
+Hobby: Go chess
+
+Name : Nguyen Duc Anh (Ryan)
+Hobby: Learning magic tricks
+
+Name: Lien Kim Nguyen (Kim)
+Hobby: Guitar
+
+Name: Patrick
+Hobby: Travelling
+
+Name : Nguyen Minh Hoang
+Hobby: Game, Music, Travel
+
+Name : Chuong Nguyen
+Hobby: Tennis, League, TFT
+
+
+Name : Nguyen Thanh Trung 
+Hobby : Basketball 
